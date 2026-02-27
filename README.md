@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @saurabh1806pal
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on Projects
+- 👋 Hi, I’m Saurabh Pal
+- I'm a Full Stack Developer
+- I'm also specialized in Business and Product Development, building AI and SAAS Application
+- Welcome to my Github
 - 📫 How to reach me palsaurabh@proton.me
 
-<!---
-saurabh1806pal/saurabh1806pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Gracias, Dasvidaniya, Dhanyawaad, Shukranm, Thanks, Merci ✌🏻
