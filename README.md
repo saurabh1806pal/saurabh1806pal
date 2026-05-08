@@ -12,12 +12,12 @@ Software Developer • Full Stack Engineer • Product-Focused Builder
 
 ## 🚀 About Me
 
-- 💼 Software Developer with experience building scalable enterprise-grade web applications :contentReference[oaicite:0]{index=0}
+- 💼 Software Developer with experience building scalable enterprise-grade web applications
 - ⚛️ Specialized in **React.js, Next.js, TypeScript, Node.js & MERN Stack**
-- 🧠 Strong understanding of **RBAC systems, API integrations, authentication flows & scalable frontend architecture** :contentReference[oaicite:1]{index=1}
+- 🧠 Strong understanding of **RBAC systems, API integrations, authentication flows & scalable frontend architecture
 - 🤖 Interested in **AI Integration, LLM Applications & Product Engineering**
 - 🏗️ Passionate about creating secure, high-performance, and intuitive digital products
-- 📈 Experienced working across SaaS, enterprise, fintech, monitoring systems, and multi-tenant platforms :contentReference[oaicite:2]{index=2}
+- 📈 Experienced working across SaaS, enterprise, fintech, monitoring systems, and multi-tenant platforms
 - 🌱 Currently exploring **System Design, Scalable Backend Systems & Advanced Architecture**
 - 🎯 Goal: Build impactful products as a world-class Full Stack Engineer
 
